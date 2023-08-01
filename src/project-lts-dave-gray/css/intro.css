@@ -1,0 +1,21 @@
+html {
+    background-color: black;
+    color: yellow;
+    font-size: 40px;
+}
+
+body {
+    text-align: center;
+}
+
+footer {
+    font-size: 20px;
+    color: aliceblue;
+}
+
+
+a {
+    font-size: 32px;
+    color: aliceblue;
+}
+
