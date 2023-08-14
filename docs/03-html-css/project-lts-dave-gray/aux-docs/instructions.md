@@ -8,6 +8,31 @@
 
 # **Instructions:**
 
+### Dependencies:
+
+#### Programing Languages:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="HTML" title="HTML" width="59x">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.cdnlogo.com/logos/c/18/css.svg" alt="CSS" title="CSS" width="52px">
+
+<br>
+<hr>
+
+#### IDE:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" title="VS Code" width="60px">
+
+<br>
+<hr>
+
+#### Version Control:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" title="Git" width="60px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Git" title="Git" width="60px">
+
+<br>
+<hr>
+
 ### 1.1 - Pre-Requesites:
 #### **VS Code Extension: "Live Server"**
 >* Name: Live Server
